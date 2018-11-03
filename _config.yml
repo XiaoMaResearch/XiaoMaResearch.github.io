@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Xiao Ma"
+title                    : "Xiao Ma"
 title_separator          : "-"
 name                     : &name "Dr. Test Account"
 description              : &description "Research Assitant at University of Illinois at Urbana Champaign"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiao Ma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "hahahhaha"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
