@@ -10,4 +10,4 @@ citation: 'Ma, X., Elbanna, A. E. (2015). Effect of off-fault low-velocity elast
 ---
 [Download paper here](https://xiaomaresearch.github.io/files/ggv302.pdf)
 
-Recommended citation: Ma, X., Elbanna, A. E. (2015). Effect of off-fault low-velocity elastic inclusions on supershear rupture dynamics. Geophysical journal international, 203(1), 664-677. https://doi.org/10.1093/gji/ggv302
+Recommended citation: Ma, X., Elbanna, A. E. (2015). Effect of off-fault low-velocity elastic inclusions on supershear rupture dynamics. Geophysical journal international, 203(1), 664-677.
