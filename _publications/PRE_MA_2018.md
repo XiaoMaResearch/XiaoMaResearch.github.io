@@ -1,7 +1,7 @@
 ---
 title: "Strain localization in dry sheared granular materials: A compactivity-based approach"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/PRE_MA_2018
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-08-28
 venue: 'PHYSICAL REVIEW E'
