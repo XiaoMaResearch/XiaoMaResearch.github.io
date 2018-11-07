@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Civil Engineering Department, Jilin University, Jilin, China, 2012
 * M.S. in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US, 2015
-* Ph.D in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US, 2018
+* Ph.D in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US,2018
 
 Work experience
 ======
