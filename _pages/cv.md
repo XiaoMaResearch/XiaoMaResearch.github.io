@@ -22,6 +22,7 @@ Work experience
 * 2018-2019: Data Scientist Intern
   * Syngenta Digital Innovation Lab
   * Champaign, IL
+  
 Skills
 ======
 * Programing Language
