@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for Numerical Method for Partial Differential Equation in Computer Science Department"
 collection: teaching
 type: "CS555 Numerical Method for Partial Difference Equation"
 permalink: /teaching/2014-spring-teaching-1
-venue: "UIUC, Department"
+venue: "UIUC, Computer Science Department"
 date: 2015-01-01
 location: "Champaign, US"
 ---
