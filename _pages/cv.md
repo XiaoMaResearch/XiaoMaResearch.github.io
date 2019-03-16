@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2015-2019: Research Assistant
   * UIUC
-* Fall 2015: Research Assistant
-  * UIUC
-
+* 2018-2019: Data Scientist Intern
+  * Syngenta Digital Innovation Lab
+  * Champaign, IL
 Skills
 ======
 * Programing Language
