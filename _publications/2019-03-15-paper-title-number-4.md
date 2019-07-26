@@ -8,4 +8,4 @@ paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042406'
 citation: 'Mondal, A., Nguyen, C. Ma, X, Elbanna, A. & Carlson, J. (2019). Network models for characterization of trabecular bone. Phys. Rev. E'
 ---
 
-<a href='https://xiaomaresearch.github.io/files/papers/pre_network_bone_2019.pdf'>Download paper here</a>
+<a href='https://xiaomaresearch.github.io/files/papers/PhysRevE.99.042406.pdf'>Download paper here</a>
