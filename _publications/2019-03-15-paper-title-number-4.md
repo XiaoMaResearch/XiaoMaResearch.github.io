@@ -1,7 +1,7 @@
 ---
 title: "Network models for characterization of trabecular bone"
 collection: publications
-permalink: /publication/2018-08-28-paper-title-number-3
+permalink: /publication/2018-08-28-paper-title-number-4
 date: 2019-03-15
 venue: 'PHYSICAL REVIEW E'
 paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042406'
