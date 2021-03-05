@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is "Dr to be" Xiao Ma's home on the web!
-I am a Ph.D. Candidate in Civil and Environmental Engineering Department at University of Illinois at Urbana-Champaign. My research focuses on numerical modeling for earthquake problem.
+This is Dr. Xiao Ma's home on the web!
+I received my Ph.D. and M.S. degrees from Civil and Environmental Engineering Department at University of Illinois at Urbana-Champaign.
+After graduate school, I joined ExxonMobil Upstream Research Company as a Research Scientist.
