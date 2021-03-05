@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Civil Engineering Department, Jilin University, Jilin, China, 2012
 * M.S. in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US, 2015
-* Ph.D in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US,2018
+* Ph.D in Civil Engineering Department, University of Illinois at Urbana Champaign, IL, US,2019
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
 * 2018-2019: Data Scientist Intern
   * Syngenta Digital Innovation Lab
   * Champaign, IL
-  
+
 Skills
 ======
 * Programing Language
@@ -52,4 +52,5 @@ Teaching
 
 Contribution
 ======
-* SCEC benchmark Verification Exercise Contributor
+* The SCEC/USGS Dynamic Earthquake Rupture Code Verification Exercise
+* The SCEC Sequences of Earthquakes and Aseismic Slip Project
