@@ -81,11 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiao Ma"
-<<<<<<< HEAD
   avatar           : "profile_new.jpeg"
-=======
-  avatar           : "profile_new.png"
->>>>>>> 9724ff392024f9f764193390ceb0fdfc602fe671
   bio              : "Research Assitant at UIUC"
   location         : "Champaign, IL, USA"
   employer         :
