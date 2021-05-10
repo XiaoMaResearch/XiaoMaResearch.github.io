@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiao Ma"
 title_separator          : "-"
 name                     : &name "Dr. Test Account"
-description              : &description "Research Assitant at University of Illinois at Urbana Champaign"
+description              : &description "Research Scientist at ExxonMobil Upstream Research Company"
 url                      : https://xiaomaresearch.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoMaResearch/xiaomaresearch.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xiao Ma"
   avatar           : "profile_new.jpeg"
-  bio              : "Research Assitant at UIUC"
+  bio              : "Research Scientist"
   location         : "Champaign, IL, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=YYav3lcAAAAJ&hl=en"
-  email            : "xiaoma5@illinois.edu"
+  email            : "xiao.ma@exxonmobil.com"
   uri              :
   bitbucket        :
   codepen          :
